@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@ylogan4code](https://github.com/Logan4code/)
+- GitHub [@logan4code](https://github.com/Logan4code/)
 - Instagram [@loganempire](https://instagram.com/loganempire)
