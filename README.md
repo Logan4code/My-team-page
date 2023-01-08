@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/Logan4code/My-team-page/blob/main/Capture-My-team-page.png)
 
 
 This challenge is for test my basic CSS skills and get it to next level. I work with basic HTML element to make a simple but yet elegant team page.
